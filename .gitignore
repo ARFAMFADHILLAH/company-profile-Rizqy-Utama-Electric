@@ -26,3 +26,6 @@ pnpm-debug.log*
 build.log
 *.tsbuildinfo
 .DS_Store
+
+# large unused font archives
+public/fonts/*.zip
